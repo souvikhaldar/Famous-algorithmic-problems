@@ -5,3 +5,5 @@
 2. [You are given two linked-lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.](https://github.com/souvikhaldar/Famous-algorithmic-problems-/blob/master/sumLL.py)  
 
 3. [Given `n` people in a circle, `kth` person is killed in every iteration. Find the survivor. (Josephus Problem)](https://github.com/souvikhaldar/Data-structures-in-Python/blob/master/miscellaneous/recursion/josephus.py)
+
+4. [Print the nth Fibonacci number using recursion](https://github.com/souvikhaldar/Famous-algorithmic-problems-/blob/62b89c36b4226294dec38849228821e0dff0f969/fib.py)
