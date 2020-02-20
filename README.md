@@ -6,4 +6,11 @@
 
 3. [Given `n` people in a circle, `kth` person is killed in every iteration. Find the survivor. (Josephus Problem)](https://github.com/souvikhaldar/Data-structures-in-Python/blob/master/miscellaneous/recursion/josephus.py)
 
-4. [Print the nth Fibonacci number using recursion](https://github.com/souvikhaldar/Famous-algorithmic-problems-/blob/62b89c36b4226294dec38849228821e0dff0f969/fib.py)
+4. [Print the nth Fibonacci number using recursion](https://github.com/souvikhaldar/Data-structures-in-Python/blob/master/miscellaneous/recursion/fib.py)  
+5. [Given a rope of length `n`, you need to find maximum number of pieces you can make such that length of every piece is in set {a,b,c} for given three values a,b and c.](https://github.com/souvikhaldar/Data-structures-in-Python/blob/04e03321d62b1837ecc5970df402c47c4ff14e8e/miscellaneous/recursion/rope.py)  
+
+6. Given a Singly Linked list of the following order:  
+``` 1 --> 2 --> 3 --> 4 --> 5 --> 6 --> 7 --> 8 ```
+print the list in the following order:  
+``` 1 --> 8 --> 2 --> 7 --> 3 --> 6 --> 4 --> 5 ```  
+[Solution](https://github.com/souvikhaldar/Famous-algorithmic-problems-/blob/master/linkedList.go)
