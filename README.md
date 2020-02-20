@@ -11,7 +11,7 @@
 
 6. Question asked in interview for Shopee.  
 Given a Singly Linked list of the following order:  
-``` 1 --> 2 --> 3 --> 4 --> 5 --> 6 --> 7 --> 8 ```
+``` 1 --> 2 --> 3 --> 4 --> 5 --> 6 --> 7 --> 8 ```    
 print the list in the following order:  
 ``` 1 --> 8 --> 2 --> 7 --> 3 --> 6 --> 4 --> 5 ```  
 [Solution](https://github.com/souvikhaldar/Famous-algorithmic-problems-/blob/master/linkedList.go)
